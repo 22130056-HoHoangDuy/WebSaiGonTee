@@ -1,0 +1,14 @@
+
+INSERT INTO [ORDERS] 
+([User_id], [status], [total_quantity], [total_price], [shipping_company_id], [address], [payment_id], [created_id], [update_id])
+VALUES  
+(1, 'Pending', 3, 150.00, 298120, '123 Đường Lê Lợi, Quận 1, TP. Hồ Chí Minh', 5, 1, NULL),
+(2, 'Shipped', 5, 300.50, 134628, '45 Đường Hoàng Diệu, Quận Ba Đình, Hà Nội', 6, 1, 2),
+(3, 'Delivered', 2, 75.00, 392031, '67 Đường Trần Phú, Quận Hải Châu, Đà Nẵng', 7, 1, 3);
+(4, 'Pending', 1, 50.00, 201923, '89 Đường Nguyễn Huệ, TP. Huế, Thừa Thiên-Huế'', 8, 4, NULL),
+(5, 'Shipped', 2, 120.00, 187372, '101 Đường Lý Thường Kiệt, TP. Vinh, Nghệ An', 9, 5, 2),
+(6, 'Delivered', 3, 200.00, 334567, '33 Đường Nguyễn Văn Linh, Quận Ninh Kiều, Cần Thơ', 10, 6, 5),
+(7, 'Cancelled', 1, 30.00, 134490, '12 Đường Trường Chinh, Quận Thanh Khê, Đà Nẵng', 11, 7, 3),
+(8, 'Pending', 4, 400.00, 405985, '159,Bình Thạnh Đông,Huyện Phú Tân,An Giang', 12, 8, NULL),
+(9, 'Shipped', 5, 550.00, 223843, '323,Đường Nguyễn Văn Tăng,P.Long Thạnh Mỹ, Thủ Đức', 13, 9, 6),
+(10, 'Delivered', 2, 150.00, 324731, '72, Giồng Giềng, Huyện Thanh Bình, Đồng Tháp', 14, 10, 7);
