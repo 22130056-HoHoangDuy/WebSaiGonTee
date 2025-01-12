@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SaiGonTee_Ecom.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SaiGonTee_Ecom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SaiGonTee_Ecom.props",
+      "PackagePath": "build\\SaiGonTee_Ecom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SaiGonTee_Ecom.props",
+      "PackagePath": "buildMultiTargeting\\SaiGonTee_Ecom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SaiGonTee_Ecom.props",
+      "PackagePath": "buildTransitive\\SaiGonTee_Ecom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

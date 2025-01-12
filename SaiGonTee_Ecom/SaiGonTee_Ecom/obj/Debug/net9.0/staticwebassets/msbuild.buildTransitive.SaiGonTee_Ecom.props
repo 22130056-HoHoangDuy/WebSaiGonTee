@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SaiGonTee_Ecom.props" />
+</Project>

@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\shared\\_sliderbartop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\shared\\_sliderbartop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\shared\\_slidebarleft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\shared\\_slidebarleft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\shippingcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\shippingcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|e:\\gifhub project\\websaigontee\\saigontee_ecom\\saigontee_ecom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{866D1A92-C209-4240-97F8-656007684A08}|SaiGonTee_Ecom\\SaiGonTee_Ecom.csproj|solutionrelative:saigontee_ecom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAAAGABAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:13:34.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:14:13.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\OrderDetail.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:42:53.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:07:11.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\Payment.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Payment.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:40:03.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:37:01.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\ProductImage.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\ProductImage.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:50:20.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:10:28.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_SliderBarTop.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_SliderBarTop.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Shared\\_SliderBarTop.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_SliderBarTop.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Shared\\_SliderBarTop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:56:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_SlideBarLeft.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_SlideBarLeft.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Shared\\_SlideBarLeft.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_SlideBarLeft.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Shared\\_SlideBarLeft.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:12:18.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\ProductVariant.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\ProductVariant.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\ProductVariant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:36:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\Product.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Product.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:36:31.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:41:34.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Color.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\Color.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Color.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:37:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:42:34.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Shared\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T12:07:42.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:09:51.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:17:47.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:17:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:21:41.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T11:42:12.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Program.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Program.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Program.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:26:34.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\Order.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Order.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:41:35.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\Banner.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Banner.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:44:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:27:35.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShippingCompany.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\ShippingCompany.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\ShippingCompany.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\ShippingCompany.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\ShippingCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:43:48.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Size.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\Size.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Size.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:39:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\User.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\User.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:34:54.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\Warehouse.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Warehouse.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:43:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\Models\\Category.cs",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\Models\\Category.cs",
+              "RelativeToolTip": "SaiGonTee_Ecom\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:35:35.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\appsettings.json",
+              "RelativeDocumentMoniker": "SaiGonTee_Ecom\\appsettings.json",
+              "ToolTip": "E:\\GifHub Project\\WebSaiGonTee\\SaiGonTee_Ecom\\SaiGonTee_Ecom\\appsettings.json",
+              "RelativeToolTip": "SaiGonTee_Ecom\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T10:21:26.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
